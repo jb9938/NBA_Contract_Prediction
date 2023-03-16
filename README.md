@@ -29,7 +29,7 @@ ECO481 Final Presentation.pdf: 15 minute presentation file for our foundings.
 One of the most detrimental drawbacks of these models is the lack of avoidance of Endogeneity
 in variables. Player stats are highly likely to be influenced by variables within
 the model such as average play time per game. It is also not liberal of the existence of
-confounding variables such as past contract values. We can adopt different varations of MLIV methods. 
+confounding variables such as past contract values. We can adopt different variations of MLIV methods. 
 
 # Team Members
 Joonbum Yang
