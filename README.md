@@ -4,14 +4,13 @@
 # Topic
 In 2016, the Golden State Warriors signed a record-breaking 54.3 million dollars 2 years
 contract with Kevin Durant, a 27 years old MVP and four times NBA scoring champion
-1. For an almost 24 billion dollars industry, the importance of fair monetary valuations in
+For an almost 24 billion dollars industry, the importance of fair monetary valuations in
 player contracts cannot be overlooked2. The cost of badly overestimated player contract
 does not reside only in its overvaluation but the team’s performance in its entire season.
 However, the efforts to accurately predict a player’s worth have been limiting. This paper
 will attempt to predict NBA contracts solely using its player statistics from the previous
 year and distinguish whether these players are being over/undervalued by using machine
-learning techniques.
-Using machine learning techniques will allow us to take advantage of its flexibility
+learning techniques. Using machine learning techniques will allow us to take advantage of its flexibility
 in non-parametric modeling as past studies in sports analytics have been done mostly
 using linear regression. Ultimately, using machine learning to give accurate predictions
 on players’ valuation can contribute to the reduction in market discrepancies in the NBA
